@@ -1,0 +1,6 @@
+{
+    "require": {
+        "khanamiryan/qrcode-detector-decoder": "^1.0",
+        "mike42/escpos-php": "^4.0"
+    }
+}
